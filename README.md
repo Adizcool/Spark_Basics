@@ -4,6 +4,9 @@
 #### CSVReader
 Reading, writing and partitioning data from a csv file
 
+#### SparkPostgres
+Connecting, reading and writing to Postgresql database
+
 #### SparkSQL
 Executing basic SQL queries on a CSV file
 
